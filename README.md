@@ -4,7 +4,7 @@ A simple React + TypeScript project that allows users to search for products and
 
 ## Live Demo
 
-[View Live Project](https://simple-search-7hiojqdz8-reza-babd.vercel.app)
+[View Live Project](https://search-app-self.vercel.app/)
 
 ## About The Project
 
